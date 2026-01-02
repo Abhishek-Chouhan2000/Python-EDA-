@@ -1,2 +1,1 @@
-# Python-EDA-
-Python (EDA)
+python-data-analysis
